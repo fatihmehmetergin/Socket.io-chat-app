@@ -2,11 +2,11 @@
 
 # install dependencies 
 
-<p><code> npm init </p></code>
+ npm init 
 
-<p><code> npm i socket.i </p><code>
+ npm i socket.i 
 
-<p><code> npm i --save-dev nodemon </p><code>
+ npm i --save-dev nodemon 
 
 # Run the app
 
