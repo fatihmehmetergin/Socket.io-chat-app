@@ -1,10 +1,13 @@
 # Socket.io-chat-app
 
+# install dependencies 
 
-npm init
+<p> npm init </p>
 
-npm i socket.i
+<p> npm i socket.i </p>
 
-npm i --save-dev nodemon
+<p> npm i --save-dev nodemon </p>
 
-start>>>>>npm run devStart
+# Run the app
+
+<p> npm run devStart </p>
