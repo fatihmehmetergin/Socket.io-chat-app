@@ -2,12 +2,12 @@
 
 # install dependencies 
 
-<p> npm init </p>
+<p><code> npm init </p></code>
 
-<p> npm i socket.i </p>
+<p><code> npm i socket.i </p><code>
 
-<p> npm i --save-dev nodemon </p>
+<p><code> npm i --save-dev nodemon </p><code>
 
 # Run the app
 
-<p> npm run devStart </p>
+<p><code> npm run devStart </p><code>
