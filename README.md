@@ -10,4 +10,4 @@
 
 # Run the app
 
-<p><code> npm run devStart </p><code>
+<p><code>npm run devStart</p><code>
